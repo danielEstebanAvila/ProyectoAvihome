@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<title> Avicon</title>
+
+ 
+    <link href="todacarps/css/bootstrap.css" rel="stylesheet">
+
+    <link href="todacarps/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="todacarps/css/icomoon.css">
+    <link href="todacarps/css/animate-custom.css" rel="stylesheet">
+
+
+    
+
+
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+
+
+
+
+
+
+
+
+
+    <script src="todacarps/js/jquery.min.js"></script>
+  <script type="text/javascript" src="todacarps/js/modernizr.custom.js"></script>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+
+  <div id="navbar-main">
+      
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+      <li> <a href="Index.html" class="smoothScroll">Inicio</a></li>
+			<li> <a href="#construccion" class="smoothScroll">Construccion</a></li>
+			<li> <a href="#Inmobiliaria" class="smoothScroll"> Inmobiliaria</a></li>
+			<li> <a href="#Gestion" class="smoothScroll"> Gestion/Asesoria</a></li>
+	
+        </div>
+      </div>
+    </div>
+    </div>
+
+ 
+
+
+ 
+<div class="container" id="portfolio" name="portfolio">
+    <br>
+      <div class="row">
+        <br>
+        <h1 class="centered">CONSTRUCCION</h1>
+        <hr>
+        <br>
+        <br>
+      </div>
+      <div class="container">
+      <div class="row"> 
+      
+        
+        <div class="col-md-4 ">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio01.jpg" alt="">
+              <figcaption>
+                <h5>PLANOS</h5>
+                <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+        
+        
+            
+                  
+              <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Planos</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio01.jpg" alt=""></p>
+                      <p>La primer fase de alguno de nuestros proyectos es el diseño del plano, en esta fase trabajamos en conjunto con nuestro cliente para llegar a un mutuo acuerdo del diseño final .</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+        
+        
+        <div class="col-md-4">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio02.jpg" alt="">
+              <figcaption>
+                <h5>CIMIENTOS</h5>
+                <a data-toggle="modal" href="#myModal1" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+                
+                <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Cimientos</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio02.jpg" alt=""></p>
+                      <p>Ya en la obra lo primero que se tiene que hacer es la cimentacion, que es lo que va a sostener el peso de la construccion.</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+        
+        <div class="col-md-4">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio03.jpg" alt="">
+              <figcaption>
+                <h5>OBRA NEGRA</h5>
+                <a data-toggle="modal" href="#myModal2" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+      </div>
+            
+                <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Obra negra</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio03.jpg" alt=""></p>
+                      <p>Usando materiales de alta calidad desarrollamos la obra negra de nuestro proyecto. Monitoreada por nuestro equipo profesional de trabajo. Logrando asi un trabajo de equipo entre arquitectos y tecnicos en construccion</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+                
+
+        
+      <div class="row"> 
+        <div class="col-md-4 ">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio04.jpg" alt="">
+              <figcaption>
+                <h5>EXTERIORES</h5>
+                <a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+                
+                <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Fachada</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio04.jpg" alt=""></p>
+                      <p>Ya terminada la obra negra siguen los detalles del proyecto, pintura en fachada delantera y trasera. </p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+        
+        
+        <div class="col-md-4">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio05.jpg" alt="">
+              <figcaption>
+                <h5>INTERIORES</h5>
+                <a data-toggle="modal" href="#myModal4" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+        <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Interiores</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio05.jpg" alt=""></p>
+                      <p>Instalacion elecrica, piso, instalacion de sanitarios todo lo que respecta dentro del inmueble. </p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                
+        
+        <div class="col-md-4">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="todacarps/img/portfolio/folio06.jpg" alt="">
+              <figcaption>
+                <h5>PRESENTACION</h5>
+                <a data-toggle="modal" href="#myModal5" class="btn btn-primary btn-lg">Echa un vistazo</a>
+              </figcaption>
+            </figure>
+            </div>
+        </div>
+                <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Presentacion</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p><img class="img-responsive" src="todacarps/img/portfolio/folio06.jpg" alt=""></p>
+                      <p>Utilizando maquinaria y equipo profesional damos ultimos retoques al proyecto listo para ser presentado y entregado a nuestros clientes. </p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                
+      </div>
+      <br>
+      <br>
+    </div>
+  </div>
+
+
+
+
+
+
+
